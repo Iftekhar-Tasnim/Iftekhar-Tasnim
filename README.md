@@ -36,12 +36,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iftekhar-tasnim&margin-w=15&margin-h=15" />
-</p>
 
----
 
 ## 📈 Contribution Graph
 <p align="center">
@@ -50,12 +45,7 @@
 
 ---
 
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iftekhar-tasnim&icon=5&color=12" />
-</p>
 
----
 
 ## 🌐 Connect With Me
 <p align="center">
