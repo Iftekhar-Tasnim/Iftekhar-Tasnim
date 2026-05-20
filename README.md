@@ -1,4 +1,4 @@
-<h1 align="center">Md. Iftekhar Tasnim</h1>
+<h1 align="center">Iftekhar Tasnim Md. Asif</h1>
 <h3 align="center">Software Engineer &nbsp;·&nbsp; Full-Stack Developer</h3>
 
 <p align="center">
